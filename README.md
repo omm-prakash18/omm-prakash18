@@ -1,8 +1,6 @@
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omm-prakash18&label=Profile%20views&color=0e75b6&style=flat" alt="omm-prakash18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omm-prakash18&v=1" alt="omm-prakash18" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omm-prakash18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 - 🌱 I’m currently learning **next js,DL and RAG**
 
@@ -26,16 +24,4 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prakash18&show_icons=true&locale=en&layout=compact&v=1" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omm-prakash18&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=omm-prakash18&v=1" alt="GitHub Streak" />
 </p>
