@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omm-prakash18&label=Profile%20views&color=0e75b6&style=flat" alt="omm-prakash18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omm-prakash18" alt="omm-prakash18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omm-prakash18&v=1" alt="omm-prakash18" /></a> </p>
 
 - 🌱 I’m currently learning **next js,DL and RAG**
 
@@ -28,8 +28,14 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prakash18&show_icons=true&locale=en&layout=compact" alt="omm-prakash18" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omm-prakash18&show_icons=true&locale=en&layout=compact&v=1" alt="Top Langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omm-prakash18&show_icons=true&locale=en" alt="omm-prakash18" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omm-prakash18&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omm-prakash18" alt="omm-prakash18" /></p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=omm-prakash18&v=1" alt="GitHub Streak" />
+</p>
