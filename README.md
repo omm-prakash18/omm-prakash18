@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omm-prakash18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **next js,DL and RAG**
+- 🌱 I’m currently learning **next js, mloops**
 
 - 📫 How to reach me **prakashomm125@gmail.com**
 
